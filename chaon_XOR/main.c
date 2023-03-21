@@ -2,7 +2,7 @@
 #include"network.h"
 
 #define INPUTS_NUM  2
-#define CHAOS_DEPTH 10
+#define CHAOS_DEPTH 5
 
 #define PATTERNS_NUM 4
 #define EPOCHS       100
