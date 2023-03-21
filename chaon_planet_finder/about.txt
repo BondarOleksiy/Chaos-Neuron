@@ -1,1 +1,1 @@
-This project demonstrates work of network of chaotic neurons in task of planet search. 
+This project in Embarcadero DEV C++ demonstrates work of network of chaotic neurons in task of planet search. 
