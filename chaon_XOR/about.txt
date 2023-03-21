@@ -1,1 +1,1 @@
-
+This is a project made in the Embarcadero DEV C++ IDE(it is fully free), where the XOR problem is solved using a chaotic neuron. 
